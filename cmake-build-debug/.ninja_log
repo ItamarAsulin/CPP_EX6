@@ -1,0 +1,20 @@
+# ninja log v5
+1	600	1653837065079697986	CMakeFiles/BasketBallLeague.dir/League.cpp.o	1f4fdec7529dca59
+0	314	1653840038480915984	CMakeFiles/BasketBallLeague.dir/sources/Team.cpp.o	ccc65810630ba572
+0	301	1653840038468916195	CMakeFiles/BasketBallLeague.dir/sources/main.cpp.o	7ecec8446608237f
+0	16	1653840092735962278	build.ninja	3693d9f40e56fec1
+0	311	1653839535586334022	CMakeFiles/BasketBallLeague.dir/main.cpp.o	e24740ec691bb406
+1	325	1653837064803701719	CMakeFiles/BasketBallLeague.dir/Game.cpp.o	fd361bb6aebf6fac
+1	12	1653837064491705941	CMakeFiles/BasketBallLeague.dir/Schedule.cpp.o	b80f050cc268879a
+314	362	1653840038528915136	BasketBallLeague	1b99c470c50b87da
+0	343	1653839705659000307	CMakeFiles/BasketBallLeague.dir/Team.cpp.o	f1357bca5d499092
+0	298	1653840191546245152	CMakeFiles/BasketBallLeague.dir/sources/main.cpp.o	7ecec8446608237f
+298	343	1653840191590244391	BasketBallLeague	1b99c470c50b87da
+0	301	1653840215529831791	CMakeFiles/BasketBallLeague.dir/sources/main.cpp.o	7ecec8446608237f
+301	377	1653840215601830553	BasketBallLeague	1b99c470c50b87da
+1	293	1653840223981686413	CMakeFiles/BasketBallLeague.dir/sources/main.cpp.o	7ecec8446608237f
+293	338	1653840224025685656	BasketBallLeague	1b99c470c50b87da
+0	308	1653840259333079905	CMakeFiles/BasketBallLeague.dir/sources/main.cpp.o	7ecec8446608237f
+308	363	1653840259389078946	BasketBallLeague	1b99c470c50b87da
+1	289	1653840441773985002	CMakeFiles/BasketBallLeague.dir/sources/main.cpp.o	7ecec8446608237f
+289	333	1653840441817984261	BasketBallLeague	1b99c470c50b87da

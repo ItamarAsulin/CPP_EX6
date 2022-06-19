@@ -1,0 +1,10 @@
+//
+// Created by itamarq on 5/29/22.
+//
+
+#ifndef BASKETBALLLEAGUE_GLOBALVARIABLESANDMETHODS_HPP
+#define BASKETBALLLEAGUE_GLOBALVARIABLESANDMETHODS_HPP
+
+
+double generateRandomNumber(double lowerBound, double upperBound);
+#endif //BASKETBALLLEAGUE_GLOBALVARIABLESANDMETHODS_HPP
